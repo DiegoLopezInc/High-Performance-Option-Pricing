@@ -8,6 +8,7 @@ This project focuses on optimizing option pricing calculations using C++ and GPU
 * Utilize GPU acceleration for significant performance improvements.
 * Handle large datasets of option contracts and market data.
 * Explore different pricing models (Black-Scholes, Binomial, Monte Carlo).
+* Build strong foundation in C++, numerical methods, and parallel computing. 
 
 ### Methodology
 1. **Data Acquisition and Preprocessing:** Collect historical market data and preprocess it for efficient use.
@@ -34,5 +35,3 @@ This project focuses on optimizing option pricing calculations using C++ and GPU
 
 ### Acknowledgements
 * References to relevant papers or resources.
-
-**Note:** This project requires a strong foundation in C++, numerical methods, and parallel computing. It is suitable for individuals with experience in high-performance computing.
